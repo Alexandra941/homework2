@@ -6,7 +6,7 @@
 public class Homework2 {
 
     public static void main(String[] args) {
-	    within10and20(5, 10);
+        within10and20(5, 10);
         isPositiveOrNegative(-9);
         isNegative(0);
         printWordNTimes("Word", 5);
